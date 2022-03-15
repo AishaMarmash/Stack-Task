@@ -1,0 +1,15 @@
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\bin\Debug\net6.0\Stack.exe
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\bin\Debug\net6.0\Stack.dll
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\bin\Debug\net6.0\Stack.pdb
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.dll
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\refint\Stack.dll
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.pdb
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+D:\Aisha's Dir.Files\Training\Projects\Stack\Stack\obj\Debug\net6.0\ref\Stack.dll
